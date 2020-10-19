@@ -1,0 +1,23 @@
+.clear:before, .clear:after, .entry-content:before, .entry-content:after, .comment-content:before, .comment-content:after, .site-header:before, .site-header:after, .site-content:before, .site-content:after, .site-footer:before, .site-footer:after {
+    content: "";
+    display: table;
+    table-layout: fixed;
+}f
+1a
+g4s
+ahg
+er'h
+er;hrth'
+rh;'rsjg'ehloeghaerh
+eth
+ety
+ey
+et
+y
+e
+y
+rty
+u
+tu
+e
+u
